@@ -1,0 +1,138 @@
+
+/*nav-bar*/
+#burgericon{
+    background-color: #b68847;
+}
+#logofpa{
+    width: 100px ;
+}
+#nav{
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.navbar-nav li a{
+    color:#b68847 ;
+ }
+
+  .btn.btn-primary {
+      color:#000000 !important;
+      border:solid 1px #000000;
+}
+/* index page */
+main{
+    padding-top: 100px;
+}
+
+#title {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+.title{
+    font-size: 35px;
+  
+}
+.lead{
+    font-size: 20px;
+    padding-top:20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-thumbnail{
+    position: sticky;
+    top: 20px;
+    width: 40rem;
+}
+
+#noustrouver{
+    margin-top: 30px;
+    border-width: 10px;
+    margin-bottom: 30px;
+}
+/* Contact page */
+
+#contact{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#contactform {
+    background-color:#EFEFF2;
+    border-radius: 1%;
+    text-align: center;
+    width: 50rem;
+    margin-bottom: 30px;
+}
+
+#button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#rounded{
+    width: 100px;
+}
+
+#ml{
+    color: #A69EB0 ;
+}
+/* Film page */
+.p-2 {
+    color:white;
+}
+#titlefilm{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 25px;
+}
+
+#date {
+    text-align: center;
+    color: #b68847 ;
+}
+
+#navbarfilm{
+    background-color: #efeff283;
+}
+
+#nav-5-tab,#nav-6-tab,#nav-7-tab,#nav-8-tab{
+    color: #b68847;
+}
+
+#fi{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/*Reservation*/
+
+#reserbutt{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+
+legend{
+    background-color: #DADAE3;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Actualités */
+
+#at{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 25px;
+}
+
+#festival{
+    margin-bottom: 50px;
+}
